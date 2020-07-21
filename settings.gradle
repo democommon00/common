@@ -1,2 +1,2 @@
 include ':common'
-rootProject.name = "CC"
+rootProject.name = "rg Common"
